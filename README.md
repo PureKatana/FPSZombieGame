@@ -32,3 +32,5 @@ Apocalypse Rising is a short FPS zombie game. You were abducted by an unkown org
 <br/>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNlNDQ1NzZiMzkwYmJhODgzODQ2NzYzYTVlMTBmN2I0MGExYjhlOSZjdD1n/x5Tod29Ld3XmPOgo6F/giphy.gif" height="80%" width="80%" alt="Combat System"/>
 </p>
+<br/>
+<h3 align="center">Simple AI (Patrol, Chase, Attack)</h3>
