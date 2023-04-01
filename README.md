@@ -4,9 +4,6 @@
 Apocalypse Rising is a short FPS zombie game. You were abducted by an unkown organization for an experiment. However, the experiment went wrong and turned everyone into mindless zombies. This tragedy caused panic all around the world. After the outbreak, you try to escape...
 <br /> 
 
-<h2>Assets</h2>
-
-- <b>Unreal Marketplace</b>
 
 <h2>Languages and Utilities Used</h2>
 
