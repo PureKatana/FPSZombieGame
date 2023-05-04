@@ -11,7 +11,7 @@ Apocalypse Rising is a short FPS zombie game. You were abducted by an unkown org
 
 <h2>Engine Used </h2>
 
-- <b>Unreal Engine 5</b>
+- <b>Unreal Engine 5.0.3</b>
 
 <h2>Features and mechanics that I worked on : </h2>
 
